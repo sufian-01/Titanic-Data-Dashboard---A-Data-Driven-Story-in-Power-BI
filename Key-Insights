@@ -1,0 +1,33 @@
+ Key Insights from Titanic Dataset Analysis
+🚢 Overall Survival Trends..............
+Total Passengers: 891
+Total Deaths: 549
+
+Survival Rate: 38% of passengers survived the disaster.
+
+A majority of the passengers did not survive, reflecting the tragic nature of the event.
+
+👩‍🦰🧔 Survival by Gender.....................
+Females had a significantly higher survival rate compared to males.
+This suggests the "women and children first" policy was followed to a good extent during evacuation.
+
+👶👵🧑 Survival by Age Group..................
+Adults had the highest count of both survival and death, due to being the largest age group onboard.
+Children had better chances of survival than seniors, showing a preference during rescue.
+Seniors had the lowest survival rate among all age groups.
+
+🛳️ Survival by Passenger Class (Pclass)...........
+First-class passengers had the highest survival rate.
+Third-class passengers faced the highest number of deaths, likely due to limited access to lifeboats and delayed evacuation.
+Socio-economic status had a strong impact on survival.
+
+🌍 Embarkation Location & Survival............
+Majority of passengers embarked from Southampton.
+No significant difference in survival was observed based solely on embarkation point.
+Location filter helps isolate patterns geographically.
+
+💰 Fare Insights......................
+Higher fare-paying passengers had better survival chances.
+First-class passengers, who paid more, had access to better rescue opportunities.
+The fare range slicer helps explore how survival varied across fare brackets.
+
